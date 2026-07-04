@@ -25,8 +25,8 @@ export const headerData = {
     },
     {
       text: 'Events',
-      href: '#'
-    }
+      href: '#',
+    },
     // {
     //   text: 'Pages',
     //   links: [
@@ -126,7 +126,7 @@ export const footerData = {
   // links: [
   //   {
   //     title: 'Product',
-      links: [],
+  links: [],
   //       { text: 'Features', href: '#' },
   //       { text: 'Security', href: '#' },
   //       { text: 'Team', href: '#' },

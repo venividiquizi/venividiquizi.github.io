@@ -6,6 +6,7 @@ nvm use
 ```
 
 ## Running the website locally
+
 ```
 npm install
 npm run dev
