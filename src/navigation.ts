@@ -126,7 +126,7 @@ export const footerData = {
   // links: [
   //   {
   //     title: 'Product',
-  //     links: [
+      links: [],
   //       { text: 'Features', href: '#' },
   //       { text: 'Security', href: '#' },
   //       { text: 'Team', href: '#' },
@@ -169,7 +169,7 @@ export const footerData = {
   //     ],
   //   },
   // ],
-  // secondaryLinks: [
+  secondaryLinks: [],
   //   { text: 'Terms', href: getPermalink('/terms') },
   //   { text: 'Privacy Policy', href: getPermalink('/privacy') },
   // ],
